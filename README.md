@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mewsika
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @mewsika, but you can call me Mew !!!
+- 👀 I’m interested in not failing in life, thanks.
+- 🌱 I’m currently learning python & javascript
+- 💞️ I’m looking to collaborate on [REDACTED]
+- 📫 How to reach me...find me on Discord if you dare :peepoconcerned:
 
 <!---
 mewsika/mewsika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
